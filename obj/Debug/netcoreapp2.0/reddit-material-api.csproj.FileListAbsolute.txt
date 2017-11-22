@@ -1,0 +1,10 @@
+c:\dev\projects\reddit-material-api\bin\Debug\netcoreapp2.0\reddit-material-api.deps.json
+c:\dev\projects\reddit-material-api\bin\Debug\netcoreapp2.0\reddit-material-api.runtimeconfig.json
+c:\dev\projects\reddit-material-api\bin\Debug\netcoreapp2.0\reddit-material-api.runtimeconfig.dev.json
+c:\dev\projects\reddit-material-api\bin\Debug\netcoreapp2.0\reddit-material-api.dll
+c:\dev\projects\reddit-material-api\bin\Debug\netcoreapp2.0\reddit-material-api.pdb
+c:\dev\projects\reddit-material-api\obj\Debug\netcoreapp2.0\reddit-material-api.csproj.CoreCompileInputs.cache
+c:\dev\projects\reddit-material-api\obj\Debug\netcoreapp2.0\reddit-material-api.AssemblyInfoInputs.cache
+c:\dev\projects\reddit-material-api\obj\Debug\netcoreapp2.0\reddit-material-api.AssemblyInfo.cs
+c:\dev\projects\reddit-material-api\obj\Debug\netcoreapp2.0\reddit-material-api.dll
+c:\dev\projects\reddit-material-api\obj\Debug\netcoreapp2.0\reddit-material-api.pdb
