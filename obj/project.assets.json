@@ -12530,6 +12530,7 @@
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.0": [
       "Microsoft.AspNetCore.All >= 2.0.3",
+      "Microsoft.EntityFrameworkCore.Design >= 2.0.1",
       "Microsoft.NETCore.App >= 2.0.0"
     ]
   },
@@ -12540,11 +12541,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\dev\\projects\\reddit-material-api\\reddit-material-api.csproj",
+      "projectUniqueName": "C:\\dev\\projects\\reddit-material-api\\reddit-material-api.csproj",
       "projectName": "reddit-material-api",
-      "projectPath": "c:\\dev\\projects\\reddit-material-api\\reddit-material-api.csproj",
+      "projectPath": "C:\\dev\\projects\\reddit-material-api\\reddit-material-api.csproj",
       "packagesPath": "C:\\Users\\danev\\.nuget\\packages\\",
-      "outputPath": "c:\\dev\\projects\\reddit-material-api\\obj\\",
+      "outputPath": "C:\\dev\\projects\\reddit-material-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -12580,6 +12581,10 @@
           "Microsoft.AspNetCore.All": {
             "target": "Package",
             "version": "2.0.3"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "2.0.1"
           }
         },
         "imports": [
